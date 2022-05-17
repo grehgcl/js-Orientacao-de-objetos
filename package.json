@@ -1,0 +1,20 @@
+{
+  "name": "projeto-banco",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grehgcl/js-Orientacao-de-objetos.git"
+  },
+  "author": "Greg",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/grehgcl/js-Orientacao-de-objetos/issues"
+  },
+  "homepage": "https://github.com/grehgcl/js-Orientacao-de-objetos#readme"
+}
